@@ -1,6 +1,6 @@
 header {
 
-    background: linear-gradient(to right, rgb(250, 175, 0), rgb(95, 0, 0));
+    background: linear-gradient(to right, rgb(222, 121, 90), rgb(67, 15, 15));
     color: lightgrey;
     text-align: center;
     margin: 0;
@@ -16,7 +16,7 @@ header {
     z-index: 100;
 }
 body {
-    background: linear-gradient( rgb(32, 33, 33), rgb(108, 111, 112));
+    background: linear-gradient( rgb(80, 80, 80), rgb(150, 150, 150));
     color: lightgray;
     padding-top: 200px; /* Desplaza todo el contenido 50px hacia abajo */
     margin: 0;  
